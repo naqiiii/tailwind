@@ -1,0 +1,20 @@
+{
+  "name": "tailwindproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "keywords": [
+    "my first tailwind groject VPN"
+  ],
+  "author": "hassan",
+  "license": "ISC",
+  "description": "hi i am hassan i will code my project",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "tailwindcss": "^4.1.11"
+  }
+}
+ 
