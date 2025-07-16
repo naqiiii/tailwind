@@ -29,11 +29,11 @@ This project is a modern and responsive **VPN website interface** created as par
 ---
 
 ## 📁 Folder Structure
-laslesvpn/
-├── index.html
-├── output.css # Tailwind CSS compiled file
-├── /images # Logos, icons, illustrations
-├── /js/app.js # Custom JavaScript
+laslesvpn/ <br>
+├── index.html <br>
+├── output.css # Tailwind CSS compiled file <br>
+├── /images # Logos, icons, illustrations <br>
+├── /js/app.js # Custom JavaScript <br>
 
 
 
